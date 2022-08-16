@@ -1,0 +1,92 @@
+{
+    "Stock_Bancomext":[
+        
+    {
+        "ST": "",
+        "SC": "",
+        "S": "",
+        "Est": "Activa",
+        "Garantia": 1052477863517022014,
+        "Buc": 24778645,
+        "Razon_Social":"ACINUAL SA DE CV",
+        "RFC_BMX": "ACI060912IT2",
+        "Moneda": "PESOS",
+        "PZO": 16,
+        "Fecha_Alta": "2016-02-17",
+        "F_Vnto": "2017-07-17",
+        "Renovar": "2018-01-13",
+        "Importe": "10,000,000.00",
+        "Prog": 2438,
+        "Porciento_Garantia": "0.5",
+        "Com": "2.1",
+        "C": "NO",
+        "Acciones_sobre_gtia": ""
+      },
+      {
+        "ST": "",
+        "SC": "",
+        "S": "",
+        "Est": "Activa",
+        "Garantia": 1052477863517022015,
+        "Buc": 24778665,
+        "Razon_Social":"ACINUAL SA DE CV",
+        "RFC_BMX": "ACI060912IT2",
+        "Moneda": "PESOS",
+        "PZO": 16,
+        "Fecha_Alta": "2016-02-17",
+        "F_Vnto": "2017-07-17",
+        "Renovar": "2018-01-13",
+        "Importe": "10,000,000.00",
+        "Prog": 2438,
+        "Porciento_Garantia": "0.5",
+        "Com": "2.1",
+        "C": "NO",
+        "Acciones_sobre_gtia": ""
+      },
+      {
+        "ST": "",
+        "SC": "",
+        "S": "",
+        "Est": "Activa",
+        "Garantia": 1052477863517022016,
+        "Buc": 24778637,
+        "Razon_Social":"ACINUAL SA DE CV",
+        "RFC_BMX": "ACI060912IT2",
+        "Moneda": "PESOS",
+        "PZO": 16,
+        "Fecha_Alta": "2016-02-17",
+        "F_Vnto": "2017-07-17",
+        "Renovar": "2018-01-13",
+        "Importe": "10,000,000.00",
+        "Prog": 2438,
+        "Porciento_Garantia": "0.5",
+        "Com": "2.1",
+        "C": "NO",
+        "Acciones_sobre_gtia": ""
+      },
+      {
+        "ST": "",
+        "SC": "",
+        "S": "",
+        "Est": "Activa",
+        "Garantia": 1052477863517022012,
+        "Buc": 24778638,
+        "Razon_Social":"ACINUAL SA DE CV",
+        "RFC_BMX": "ACI060912IT2",
+        "Moneda": "PESOS",
+        "PZO": 16,
+        "Fecha_Alta": "2016-02-17",
+        "F_Vnto": "2017-07-17",
+        "Renovar": "2018-01-13",
+        "Importe": "10,000,000.00",
+        "Prog": 2438,
+        "Porciento_Garantia": "0.5",
+        "Com": "2.1",
+        "C": "NO",
+        "Acciones_sobre_gtia": ""
+      }
+    
+    
+]
+    
+}
